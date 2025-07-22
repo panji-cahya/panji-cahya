@@ -1,6 +1,6 @@
 ## Hi there, I'm Panji !
 
-A researcher at the intersection of molecular microbiology, microbial ecology, bioinformatics, and data science. My work focuses on integrating multi-omics data. With a strong foundation in high-throughput sequencing, bioinformatics, and biostatistics, I develop reproducible molecular methods, bioinformatics workflows and scalable data solutions to support research and innovation. I’m passionate about transforming complex biological data into actionable insights ! 😊
+A researcher at the intersection of molecular microbiology, microbial ecology, bioinformatics, and data science. My work focuses on integrating multi-omics data. With a strong foundation in high-throughput sequencing, bioinformatics, and biostatistics, I develop reproducible molecular methods, bioinformatics workflows and scalable data solutions to support research and innovation. I’m passionate about transforming complex biological data into actionable insights !
 - LinkedIn : https://www.linkedin.com/in/panji-mawarda-7a963134b
 - Bluesky: [@panjicahya.bsky.social](https://bsky.app/profile/panjicahya.bsky.social)
   
